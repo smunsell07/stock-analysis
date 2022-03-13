@@ -11,7 +11,7 @@ The purpose of this project is to develop an efficient tool in Excel to analyze 
 ## Results
 There is a big difference in the stock performances between 2017 and 2018. Only one of the twelve analyzed stocks had a negative yearly return in 2017. In 2018, the performances are essentially flipped, with only two of the stocks having a positive yearly return. This demonstates that the return on stocks can vary greatly from year to year. See image below:
 
-![yearly_stock_comparison](yearly_stock_comparison.png)
+![yearly_stock_comparison](resources/yearly_stock_comparison.png)
 
 ### The original code analyzing twelve stocks:
 ```
@@ -286,12 +286,12 @@ End Sub
 ### The original code execution times for 2017 and 2018:
 
 
-![VBA_Challenge_2017_original_code](VBA_Challenge_2017_original_code.png)
-![VBA_Challenge_2018_original_code](VBA_Challenge_2018_original_code.png)
+![VBA_Challenge_2017_original_code](resources/VBA_Challenge_2017_original_code.png)
+![VBA_Challenge_2018_original_code](resources/VBA_Challenge_2018_original_code.png)
 
 ### The refactored code execution times for the same years:
-![VBA_Challenge_2017](VBA_Challenge_2017.png)
-![VBA_Challenge_2018](VBA_Challenge_2018.png)
+![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
 
 The refactored code runs 83% faster than the original code. The refacored code is more efficient while achieving the same output. 
