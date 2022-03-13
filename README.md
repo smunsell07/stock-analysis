@@ -11,7 +11,7 @@ The purpose of this project is to develop an efficient tool in Excel to analyze 
 ## Results
 There is a big difference in the stock performances between 2017 and 2018. Only one of the twelve analyzed stocks had a negative yearly return in 2017. In 2018, the performances are essentially flipped, with only two of the stocks having a positive yearly return. This demonstates that the return on stocks can vary greatly from year to year. See image below:
 
-![yearly_stock_comparison](yearly_stock_comparison.png)
+![yearly_stock_comparison](resources/yearly_stock_comparison.png)
 
 ### The original code analyzing twelve stocks:
 ```
