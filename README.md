@@ -286,12 +286,12 @@ End Sub
 ### The original code execution times for 2017 and 2018:
 
 
-![VBA_Challenge_2017_original_code](VBA_Challenge_2017_original_code.png)
-![VBA_Challenge_2018_original_code](VBA_Challenge_2018_original_code.png)
+![VBA_Challenge_2017_original_code](resources/VBA_Challenge_2017_original_code.png)
+![VBA_Challenge_2018_original_code](resources/VBA_Challenge_2018_original_code.png)
 
 ### The refactored code execution times for the same years:
-![VBA_Challenge_2017](VBA_Challenge_2017.png)
-![VBA_Challenge_2018](VBA_Challenge_2018.png)
+![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
 
 The refactored code runs 83% faster than the original code. The refacored code is more efficient while achieving the same output. 
